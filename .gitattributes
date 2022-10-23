@@ -1,0 +1,4 @@
+*.unityweb filter=lfs diff=lfs merge=lfs -text
+crowe/Build/2.8.data.unitywebityweb filter=lfs diff=lfs merge=lfs -text
+crowe/Build/ filter=lfs diff=lfs merge=lfs -text
+2.8.data.unityweb filter=lfs diff=lfs merge=lfs -text
