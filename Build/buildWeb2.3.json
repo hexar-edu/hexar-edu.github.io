@@ -1,0 +1,17 @@
+{
+"companyName": "Hexar",
+"productName": "Pandemium",
+"productVersion": "1.0",
+"dataUrl": "buildWeb2.3.data.unityweb",
+"wasmCodeUrl": "buildWeb2.3.wasm.code.unityweb",
+"wasmFrameworkUrl": "buildWeb2.3.wasm.framework.unityweb",
+"graphicsAPI": ["WebGL 2.0","WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"backgroundUrl": "buildWeb2.3.jpg",
+"splashScreenStyle": "Dark",
+"backgroundColor": "#FFFFFF",
+"cacheControl": {"default": "must-revalidate"},
+"developmentBuild": false,
+"multithreading": false,
+"unityVersion": "2019.3.7f1"
+}
